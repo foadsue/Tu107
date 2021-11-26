@@ -32,5 +32,4 @@ I also made an playlist for recommended each type of music on [spotify](https://
 > **gmail**: sirintorn.pha@dome.tu.ac.th
 
 
-![bloggif_61a0bc246733d](https://user-images.githubusercontent.com/94469876/143569600-e8d661ce-7a11-472c-b88a-c96060933f55.jpeg)
 
