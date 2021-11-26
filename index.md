@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Sirintorn Phachai
+*Curriculum Vitae*
 
-You can use the [editor on GitHub](https://github.com/foadsue/Tu107/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Personal Information
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+นางสาวสิรินธร ผาไชย 
+รหัศนักศึกษา 6424650023
+วิทยาลัยสหวิทยาการ สาขาวิทยาศาสตร์และนวัตกรรมข้อมูล ปี 1
+Date of birth: 25 January 2003
 ```
+for more detail about my resume click [sirintorn's portfolio](https://drive.google.com/file/d/143nojI2KND_-JcSeSOI3UdfXEcqR8-5G/view?usp=sharing)
+### Education
+```
+- Junior high school : Piyamaharachalai School(GPA 3.98/4.00)
+- Senior high scool : Princess Chulaborn Science High School Mukdahan with gpa 3.77/4.00
+```
+### Key Skills
+```
+- Programming Languages: Python, C
+```
+### Personal Interests
+```
+1. Music
+2. cartoon
+3. Game (RPG games is the most interested me)
+4. Drawing and Editing
+5. a littlebit of coding(but not an influencer)
+```
+I also made an playlist for recommended each type of music on [spotify](https://open.spotify.com/playlist/2i3miRQPPAYEepR0WikcdE?si=63e9fe7ea88d4897)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact
+> **gmail**: sirintorn.pha@dome.tu.ac.th
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foadsue/Tu107/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![bloggif_61a0bc246733d](https://user-images.githubusercontent.com/94469876/143569600-e8d661ce-7a11-472c-b88a-c96060933f55.jpeg)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
