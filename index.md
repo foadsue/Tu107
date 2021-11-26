@@ -1,6 +1,7 @@
 ## Sirintorn Phachai
 *Curriculum Vitae*
 
+![bloggif_61a0c7182e5ed](https://user-images.githubusercontent.com/94469876/143575370-612e278b-8e27-4394-b753-8b8b0d0b2f16.jpeg)
 ### Personal Information
 ```markdown
 นางสาวสิรินธร ผาไชย 
